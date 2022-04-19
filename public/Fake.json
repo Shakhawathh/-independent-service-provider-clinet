@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": " wedding photography",
+        "price": "300",
+        "description": "Professional wedding photographer and educator Jared Platt has photographed weddings all around the globe, spreading from large destination weddings to local weddings in his own hometown Phoenix",
+        "img": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Product photoshoot",
+        "price": "190",
+        "description": "Using mahogany speaker housings, the Grado Labs' GS1000 has been considered by audiophiles as one of the finest headphones ever made this great headphone."
+        ,
+        "img": "https://images.unsplash.com/photo-1578517581165-61ec5ab27a19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=743&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Food photoshoot ",
+        "price": "230",
+        "description": "substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy.",
+        "img": "https://images.unsplash.com/photo-1609690963718-0b55905aef78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=699&q=80"
+    }
+
+]
