@@ -6,7 +6,7 @@ Project Name :photographer-gallery
 
 
 ## Link
-https://darling-lolly-cfc820.netlify.app/
+https://photographer-gallery-8b487.web.app/
 ## Wedsite configuration 
 
 - you can login 
