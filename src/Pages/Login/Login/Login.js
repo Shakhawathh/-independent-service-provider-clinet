@@ -33,7 +33,7 @@ const Login = () => {
         signInWithEmailAndPassword(email, password);
     }
     const navigateRegister = event => {
-       navigate('/register')
+       navigate('/register');
     }
 
   return (
