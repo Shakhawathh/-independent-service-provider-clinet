@@ -7,7 +7,7 @@ const cheakout = () => {
   const { checkoutId } = useParams;
   return (
     <div>
-      <h1 className=" text-center text-bolder text-success">cheakout{checkoutId}</h1>
+      <h1 className=" text-center text-bolder text-success">cheak out{checkoutId}</h1>
 
 
 <Form>
