@@ -19,7 +19,7 @@ const Blog = () => {
         authentication?
       </h1>
       <p>
-        {" "}
+        
         using firebase for making web site login sysytem and its easy and more
         secure for the sequrity purpose. we can implement many thing by the
         authentication . Those are : Password Requirements,Transferring the
