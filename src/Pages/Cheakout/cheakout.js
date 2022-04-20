@@ -7,10 +7,10 @@ const cheakout = () => {
   const { checkoutId } = useParams;
   return (
     <div>
-      <h1 className=" text-center text-bolder text-success">cheak out{checkoutId}</h1>
+      <h1 className=" text-center text-bolder text-success">check out{checkoutId}</h1>
 
 
-<Form>
+<Form className="container mx-5">
         <Form.Group className="mb-3" controlId="formBasicEmail">
           
           <Form.Control  type="Name" placeholder="Name" required/>
@@ -27,8 +27,8 @@ const cheakout = () => {
           <Form.Control  type="password" placeholder="Password" required />
         </Form.Group>
         
-        <Button variant="success w-50 mx-auto d-block" type="submit">
-          Cheak out
+        <Button variant="secondary w-50 mx-auto d-block" type="submit">
+          Check out
         </Button>
       </Form>
       
