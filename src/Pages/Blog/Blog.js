@@ -20,10 +20,7 @@ const Blog = () => {
       </h1>
       <p>
         
-        using firebase for making web site login sysytem and its easy and more
-        secure for the sequrity purpose. we can implement many thing by the
-        authentication . Those are : Password Requirements,Transferring the
-        Data, Hashing Passwords etc
+      Google firebase is a platform that now offer active backend for building dynamic web and mobile applications. We can build client side app with firebase ,Firebase turns the client side app into a serverless app in no time, It also removes the need to manage database yourself at it does for us.Firebase is the technical and time savings alternative to write backend code for dynamic app. i
       </p>
       <br />
       <h1>
