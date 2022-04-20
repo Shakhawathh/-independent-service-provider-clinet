@@ -34,7 +34,11 @@ const Blog = () => {
            3. Hosting
             4. Cloud Storage
           5. Google Analytics
-           6. Predictions</p>
+           6. Predictions
+           7.Cloud messaging
+           
+           
+           </p>
       
     </div>
   );
